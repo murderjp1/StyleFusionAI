@@ -1,0 +1,5 @@
+{
+  "name": "StyleFusion AI",
+  "description": "A virtual try-on application that uses advanced AI to combine a photo of a person with a clothing item.",
+  "requestFramePermissions": []
+}
